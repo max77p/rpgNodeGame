@@ -1,0 +1,30 @@
+{
+  "name": "simon",
+  "cClass": {
+    "name": "hacker",
+    "starting_HP": 50,
+    "starting_MP": 5,
+    "starting_Strength": 50,
+    "starting_Agility": 20,
+    "starting_Defense": 0.3,
+    "ability": {
+      "name": "hack",
+      "attack_Points": 9,
+      "MP_Required": 6
+    },
+    "HP_Up": 0.7,
+    "MP_Up": 0.2
+  },
+  "strength": 50,
+  "agility": 20,
+  "HP": {
+    "current": 50,
+    "max": 50
+  },
+  "MP": {
+    "current": 5,
+    "max": 5
+  },
+  "level": 1,
+  "xp": 10
+}

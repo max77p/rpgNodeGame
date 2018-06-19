@@ -1,0 +1,27 @@
+[
+  {
+    "name": "hack",
+    "attack_Points": 9,
+    "MP_Required": 6
+  },
+  {
+    "name": "slash",
+    "attack_Points": 12,
+    "MP_Required": 7
+  },
+  {
+    "name": "mug",
+    "attack_Points": 15,
+    "MP_Required": 10
+  },
+  {
+    "name": "arrow",
+    "attack_Points": 10,
+    "MP_Required": 8
+  },
+  {
+    "name": "throwRock",
+    "attack_Points": 15,
+    "MP_Required": 12
+  }
+]

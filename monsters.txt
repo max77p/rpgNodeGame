@@ -1,0 +1,107 @@
+[
+  {
+    "name": "monster1",
+    "strength": 100,
+    "agility": 50,
+    "defence": 0.2,
+    "HP": {
+      "current": 100,
+      "max": 100
+    },
+    "MP": {
+      "curent": 5,
+      "max": 5
+    },
+    "level": 1,
+    "xptoGive": 10,
+    "ability": {
+      "name": "hack",
+      "attack_Points": 9,
+      "MP_Required": 6
+    }
+  },
+  {
+    "name": "monster2",
+    "strength": 100,
+    "agility": 50,
+    "defence": 0.1,
+    "HP": {
+      "current": 100,
+      "max": 100
+    },
+    "MP": {
+      "curent": 5,
+      "max": 5
+    },
+    "level": 1,
+    "xptoGive": 10,
+    "ability": {
+      "name": "slash",
+      "attack_Points": 12,
+      "MP_Required": 7
+    }
+  },
+  {
+    "name": "monster3",
+    "strength": 100,
+    "agility": 50,
+    "defence": 0.4,
+    "HP": {
+      "current": 100,
+      "max": 100
+    },
+    "MP": {
+      "curent": 5,
+      "max": 5
+    },
+    "level": 1,
+    "xptoGive": 5,
+    "ability": {
+      "name": "mug",
+      "attack_Points": 15,
+      "MP_Required": 10
+    }
+  },
+  {
+    "name": "monster4",
+    "strength": 100,
+    "agility": 50,
+    "defence": 0.3,
+    "HP": {
+      "current": 100,
+      "max": 100
+    },
+    "MP": {
+      "curent": 5,
+      "max": 5
+    },
+    "level": 1,
+    "xptoGive": 12,
+    "ability": {
+      "name": "arrow",
+      "attack_Points": 10,
+      "MP_Required": 8
+    }
+  },
+  {
+    "name": "monster5",
+    "strength": 100,
+    "agility": 50,
+    "defence": 0.35,
+    "HP": {
+      "current": 100,
+      "max": 100
+    },
+    "MP": {
+      "curent": 5,
+      "max": 5
+    },
+    "level": 1,
+    "xptoGive": 15,
+    "ability": {
+      "name": "throwRock",
+      "attack_Points": 15,
+      "MP_Required": 12
+    }
+  }
+]

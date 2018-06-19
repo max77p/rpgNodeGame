@@ -1,0 +1,77 @@
+[
+  {
+    "name": "hacker",
+    "starting_HP": 50,
+    "starting_MP": 5,
+    "starting_Strength": 50,
+    "starting_Agility": 20,
+    "starting_Defense": 0.3,
+    "ability": {
+      "name": "hack",
+      "attack_Points": 9,
+      "MP_Required": 6
+    },
+    "HP_Up": 0.7,
+    "MP_Up": 0.2
+  },
+  {
+    "name": "slasher",
+    "starting_HP": 70,
+    "starting_MP": 6,
+    "starting_Strength": 50,
+    "starting_Agility": 20,
+    "starting_Defense": 0.4,
+    "ability": {
+      "name": "slash",
+      "attack_Points": 12,
+      "MP_Required": 7
+    },
+    "HP_Up": 0.5,
+    "MP_Up": 0.2
+  },
+  {
+    "name": "mugger",
+    "starting_HP": 60,
+    "starting_MP": 7,
+    "starting_Strength": 50,
+    "starting_Agility": 20,
+    "starting_Defense": 0.1,
+    "ability": {
+      "name": "mug",
+      "attack_Points": 15,
+      "MP_Required": 10
+    },
+    "HP_Up": 0.3,
+    "MP_Up": 0.6
+  },
+  {
+    "name": "arrower",
+    "starting_HP": 100,
+    "starting_MP": 8,
+    "starting_Strength": 50,
+    "starting_Agility": 20,
+    "starting_Defense": 0.3,
+    "ability": {
+      "name": "arrow",
+      "attack_Points": 10,
+      "MP_Required": 8
+    },
+    "HP_Up": 0.2,
+    "MP_Up": 0.5
+  },
+  {
+    "name": "rocker",
+    "starting_HP": 85,
+    "starting_MP": 6,
+    "starting_Strength": 50,
+    "starting_Agility": 20,
+    "starting_Defense": 0.2,
+    "ability": {
+      "name": "throwRock",
+      "attack_Points": 15,
+      "MP_Required": 12
+    },
+    "HP_Up": 0.3,
+    "MP_Up": 0.4
+  }
+]
